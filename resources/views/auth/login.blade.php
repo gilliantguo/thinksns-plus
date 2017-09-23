@@ -69,7 +69,7 @@
         }
         .has-error .help-block {
             display: block;
-            margin-top: 5px;
+            margin-top: 6px;
             margin-bottom: 10px;
             color: #a94442;
             box-sizing: border-box;
